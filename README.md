@@ -1,2 +1,2 @@
-# Projeect-Backend
-Ecommerce portal
+Izzah Collections
+E-commerce Web Application using Spring Core, Spring Security, Hibernate, JSP, BootStrap, JUnit Testing
